@@ -59,6 +59,7 @@ int main()
     
     for(int i=0; i<size; i++){
         cout<<"Enter the name and grade ";
+        cout<<"This is the sample Output";
         cin>>name>>grade;
         names.push_back(name);
         grades.push_back(grade);
